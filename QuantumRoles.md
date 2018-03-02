@@ -1,5 +1,9 @@
 QUANTUM TECHNOLOGIES AND THE NEW PROFESSIONAL PROFILES
 -------------------------------------------------------
+[Download this article in pdf](https://es.slideshare.net/FranciscoJGlvezRamre/quantum-roles-in-quantum-computing)
+
+[Download this article in pdf and Spanish](https://es.slideshare.net/FranciscoJGlvezRamre/perfiles-en-tecnologias-cunticas/FranciscoJGlvezRamre/perfiles-en-tecnologias-cunticas)
+
 _Francisco Gálvez_
 
 **First Quantum Revolution occurred during XX century. At the beginning of that century, the Quantum Theory was discovered, developed and its basic principles were understood, based on this knowledge, some technologies, such as the electronics or lasers were developed. Now in the beginning of the XXI century we are about to face the second Quantum Revolution. We have the knowledge and the tools to start building a computer ruled by quantum laws. This computers will allow us to face new challenges and explore new paths in science, technology, business that will contribute to build a better society. New professionals with specific skills will be necessary. This is a first view of the profiles  that probably will arise in the coming years related to the quantum business.**
@@ -42,6 +46,3 @@ The developer must also know the fundamental concepts in quantum mechanics. The 
  
 It is therefore necessary to enable or modify the educational plans to accommodate new contents that enable the creation of the aforementioned profiles. So far, the knowledge related to quantum phenomena have been  almost exclusive of physics degrees, but now on, we must expand this knowledge to other studies in the area of engineering and information technology, and at the same time, begin to include it  earlier and stepwise in secondary education schools.
 
-[Download this article in pdf](https://es.slideshare.net/FranciscoJGlvezRamre/quantum-roles-in-quantum-computing)
-
-[Download this article in pdf and Spanish](https://es.slideshare.net/FranciscoJGlvezRamre/perfiles-en-tecnologias-cunticas/FranciscoJGlvezRamre/perfiles-en-tecnologias-cunticas)
