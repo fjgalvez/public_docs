@@ -41,3 +41,7 @@ A mastery of quantum mechanics, electronics, photonic systems, nanotechnology an
 The developer must also know the fundamental concepts in quantum mechanics. The scope of action of a quantum developer is Quantum Computation and therefore it is required a deep knowledge of systems programming as well as a good knowledge of quantum mechanics
  
 It is therefore necessary to enable or modify the educational plans to accommodate new contents that enable the creation of the aforementioned profiles. So far, the knowledge related to quantum phenomena have been  almost exclusive of physics degrees, but now on, we must expand this knowledge to other studies in the area of engineering and information technology, and at the same time, begin to include it  earlier and stepwise in secondary education schools.
+
+[Download this article in pdf](https://es.slideshare.net/FranciscoJGlvezRamre/quantum-roles-in-quantum-computing)
+
+[Download this article in pdf and Spanish](https://es.slideshare.net/FranciscoJGlvezRamre/perfiles-en-tecnologias-cunticas/FranciscoJGlvezRamre/perfiles-en-tecnologias-cunticas)
